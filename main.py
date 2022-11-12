@@ -107,4 +107,4 @@ if __name__ == "__main__":
     # 4 check if phantasies valid
     phantasies_arr = ")()()()()"
     print(valid_phantasies(phantasies_arr))
-
+    print("BIG CONFLICT")
